@@ -1,0 +1,30 @@
+# --- Core API ---
+fastapi
+uvicorn
+python-multipart
+
+
+# --- Numerical & imaging ---
+numpy
+pillow
+opencv-python
+
+
+# --- Vector DB ---
+faiss-cpu
+
+
+# --- Models ---
+transformers
+open-clip-torch
+
+
+# --- Utilities ---
+pydantic
+tqdm
+
+
+# NOTE: Install PyTorch separately for your platform (CPU/CUDA):
+# https://pytorch.org/get-started/locally/
+# Example CPU-only:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
