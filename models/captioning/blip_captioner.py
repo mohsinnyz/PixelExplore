@@ -1,4 +1,4 @@
-# D:\pixelexplore\models\blip_captioner.py
+# D:\pixelexplore\models\captioning\blip_captioner.py
 from transformers import BlipProcessor, BlipForConditionalGeneration
 from PIL import Image
 import torch

@@ -1,4 +1,4 @@
-# D:\pixelexplore\models\fer_emotion.py
+# D:\pixelexplore\models\emotion\fer_emotion.py
 from fer import FER
 import numpy as np
 

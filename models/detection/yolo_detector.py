@@ -1,4 +1,4 @@
-#D:\pixelexplore\models\yolo_detector.py
+#D:\pixelexplore\models\detection\yolo_detector.py
 from ultralytics import YOLO
 
 class YOLODetector:
